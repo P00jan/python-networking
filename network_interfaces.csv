@@ -1,0 +1,10 @@
+Interface,Address (-1),Address (2),Address (23)
+Ethernet 2,00-05-9A-3C-7A-00,10.0.9.37,fe80::4917:bed4:47c3:3e9a
+VirtualBox Host-Only Network,0A-00-27-00-00-04,192.168.56.1,fe80::f08:5404:6622:7eb5
+Ethernet 3,0A-00-27-00-00-08,169.254.229.186,fe80::45d3:91d2:6bf9:8853
+Ethernet 4,0A-00-27-00-00-14,169.254.131.20,fe80::e1cc:ac8d:5042:3d6b
+Local Area Connection* 3,96-08-53-53-A1-AF,169.254.211.4,fe80::ce02:61e6:47d:444d
+Local Area Connection* 4,D6-08-53-53-A1-AF,169.254.245.107,fe80::dbfc:dc39:f91:b8bf
+Wi-Fi,94-08-53-53-A1-AF,10.245.3.116,fe80::2834:571b:f55d:2406
+Ethernet,3C-7C-3F-EB-F0-31,169.254.110.248,fe80::6dca:d4ab:df52:8ae8
+Loopback Pseudo-Interface 1,,127.0.0.1,::1

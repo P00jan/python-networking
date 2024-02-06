@@ -1,0 +1,9 @@
+Interface,Is Up,MTU,Duplex
+Ethernet,False,1500,2
+Ethernet 2,True,1300,2
+VirtualBox Host-Only Network,True,1500,2
+Ethernet 3,True,1500,2
+Loopback Pseudo-Interface 1,True,1500,2
+Wi-Fi,True,1500,2
+Local Area Connection* 3,False,1500,2
+Local Area Connection* 4,False,1500,2

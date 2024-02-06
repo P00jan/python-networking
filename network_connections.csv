@@ -1,0 +1,367 @@
+Local Address,Remote Address,Status,PID
+"addr(ip='192.168.56.1', port=137)",(),NONE,4
+"addr(ip='127.0.0.1', port=52226)",(),NONE,3760
+"addr(ip='127.0.0.1', port=52087)","addr(ip='127.0.0.1', port=17828)",ESTABLISHED,17068
+"addr(ip='127.0.0.1', port=49669)",(),LISTEN,4232
+"addr(ip='10.0.9.37', port=17265)","addr(ip='35.186.224.16', port=443)",ESTABLISHED,43016
+"addr(ip='10.245.3.116', port=5353)",(),NONE,6372
+"addr(ip='127.0.0.1', port=52760)",(),NONE,11192
+"addr(ip='127.0.0.1', port=9180)",(),LISTEN,6152
+"addr(ip='::', port=4500)",(),NONE,2844
+"addr(ip='127.0.0.1', port=12840)","addr(ip='127.0.0.1', port=12839)",ESTABLISHED,16608
+"addr(ip='0.0.0.0', port=1042)",(),LISTEN,19404
+"addr(ip='127.0.0.1', port=27060)",(),LISTEN,19664
+"addr(ip='127.0.0.1', port=12839)","addr(ip='127.0.0.1', port=12840)",ESTABLISHED,16608
+"addr(ip='127.0.0.1', port=15971)","addr(ip='127.0.0.1', port=15972)",ESTABLISHED,21772
+"addr(ip='127.0.0.1', port=12817)",(),LISTEN,16608
+"addr(ip='fe80::37c8:65d6:cfd5:4789', port=2177)",(),NONE,12804
+"addr(ip='0.0.0.0', port=1900)",(),NONE,35756
+"addr(ip='::', port=51818)",(),NONE,33388
+"addr(ip='127.0.0.1', port=51950)","addr(ip='127.0.0.1', port=1042)",ESTABLISHED,10304
+"addr(ip='10.0.9.37', port=18829)","addr(ip='192.168.90.200', port=8006)",ESTABLISHED,21356
+"addr(ip='127.0.0.1', port=12817)","addr(ip='127.0.0.1', port=12818)",ESTABLISHED,16608
+"addr(ip='::', port=49668)",(),LISTEN,5076
+"addr(ip='127.0.0.1', port=14198)","addr(ip='127.0.0.1', port=14203)",ESTABLISHED,32012
+"addr(ip='10.0.9.37', port=17135)","addr(ip='142.250.80.106', port=443)",ESTABLISHED,21356
+"addr(ip='10.245.3.116', port=1900)",(),NONE,11192
+"addr(ip='127.0.0.1', port=49153)","addr(ip='127.0.0.1', port=15234)",ESTABLISHED,8696
+"addr(ip='0.0.0.0', port=5353)",(),NONE,2568
+"addr(ip='::', port=3702)",(),NONE,29516
+"addr(ip='10.0.9.37', port=13507)","addr(ip='35.174.127.31', port=443)",ESTABLISHED,17932
+"addr(ip='127.0.0.1', port=22112)",(),LISTEN,6384
+"addr(ip='127.0.0.1', port=14198)","addr(ip='127.0.0.1', port=14217)",ESTABLISHED,32012
+"addr(ip='127.0.0.1', port=15969)","addr(ip='127.0.0.1', port=15970)",ESTABLISHED,21772
+"addr(ip='127.0.0.1', port=10021)",(),NONE,16872
+"addr(ip='127.0.0.1', port=15975)","addr(ip='127.0.0.1', port=15974)",ESTABLISHED,21772
+"addr(ip='127.0.0.1', port=15594)","addr(ip='127.0.0.1', port=15956)",ESTABLISHED,21772
+"addr(ip='10.0.9.37', port=13518)","addr(ip='3.96.121.93', port=443)",ESTABLISHED,21356
+"addr(ip='0.0.0.0', port=123)",(),NONE,30904
+"addr(ip='169.254.229.186', port=2177)",(),NONE,12804
+"addr(ip='169.254.131.20', port=138)",(),NONE,4
+"addr(ip='127.0.0.1', port=1001)",(),LISTEN,4
+"addr(ip='127.0.0.1', port=58612)","addr(ip='127.0.0.1', port=17532)",ESTABLISHED,29624
+"addr(ip='127.0.0.1', port=18850)","addr(ip='127.0.0.1', port=28194)",SYN_SENT,7432
+"addr(ip='127.0.0.1', port=14197)","addr(ip='127.0.0.1', port=14218)",ESTABLISHED,32012
+"addr(ip='169.254.131.20', port=5353)",(),NONE,6372
+"addr(ip='0.0.0.0', port=51386)",(),NONE,29516
+"addr(ip='127.0.0.1', port=12816)",(),LISTEN,16608
+"addr(ip='10.0.9.37', port=139)",(),LISTEN,4
+"addr(ip='10.0.9.37', port=18194)","addr(ip='142.250.65.174', port=443)",ESTABLISHED,21356
+"addr(ip='10.0.9.37', port=18682)","addr(ip='142.250.81.237', port=443)",ESTABLISHED,21356
+"addr(ip='127.0.0.1', port=58618)","addr(ip='127.0.0.1', port=9012)",ESTABLISHED,29624
+"addr(ip='0.0.0.0', port=49248)",(),NONE,4232
+"addr(ip='0.0.0.0', port=50001)",(),NONE,6000
+"addr(ip='10.0.9.37', port=18754)","addr(ip='20.42.65.85', port=443)",ESTABLISHED,23620
+"addr(ip='10.0.9.37', port=18759)","addr(ip='142.251.40.142', port=443)",ESTABLISHED,21356
+"addr(ip='::1', port=8890)","addr(ip='::1', port=14204)",ESTABLISHED,39684
+"addr(ip='127.0.0.1', port=12814)","addr(ip='127.0.0.1', port=12819)",ESTABLISHED,16608
+"addr(ip='169.254.131.20', port=52758)",(),NONE,11192
+"addr(ip='127.0.0.1', port=14211)","addr(ip='127.0.0.1', port=14210)",ESTABLISHED,32012
+"addr(ip='127.0.0.1', port=17532)","addr(ip='127.0.0.1', port=58612)",ESTABLISHED,16796
+"addr(ip='127.0.0.1', port=15970)","addr(ip='127.0.0.1', port=15969)",ESTABLISHED,21772
+"addr(ip='169.254.229.186', port=1900)",(),NONE,11192
+"addr(ip='10.0.9.37', port=18807)","addr(ip='44.226.100.210', port=443)",ESTABLISHED,21356
+"addr(ip='10.0.9.37', port=13503)","addr(ip='172.64.148.154', port=443)",ESTABLISHED,1808
+"addr(ip='127.0.0.1', port=17827)","addr(ip='127.0.0.1', port=65001)",ESTABLISHED,6372
+"addr(ip='0.0.0.0', port=5353)",(),NONE,35756
+"addr(ip='::', port=52859)",(),NONE,6372
+"addr(ip='0.0.0.0', port=51587)",(),NONE,4
+"addr(ip='10.0.9.37', port=13488)","addr(ip='52.96.33.82', port=443)",ESTABLISHED,21356
+"addr(ip='0.0.0.0', port=61987)",(),NONE,2568
+"addr(ip='0.0.0.0', port=49666)",(),LISTEN,1976
+"addr(ip='fe80::4917:bed4:47c3:3e9a', port=2177)",(),NONE,12804
+"addr(ip='0.0.0.0', port=9013)",(),LISTEN,10304
+"addr(ip='127.0.0.1', port=52185)","addr(ip='127.0.0.1', port=62522)",ESTABLISHED,3556
+"addr(ip='127.0.0.1', port=15972)","addr(ip='127.0.0.1', port=15971)",ESTABLISHED,21772
+"addr(ip='10.0.9.37', port=18849)","addr(ip='13.107.42.12', port=443)",ESTABLISHED,5916
+"addr(ip='127.0.0.1', port=13030)",(),LISTEN,6384
+"addr(ip='127.0.0.1', port=14373)",(),LISTEN,39716
+"addr(ip='127.0.0.1', port=51956)","addr(ip='127.0.0.1', port=17955)",ESTABLISHED,19660
+"addr(ip='0.0.0.0', port=65338)",(),NONE,2568
+"addr(ip='10.0.9.37', port=18801)","addr(ip='192.168.90.200', port=8006)",ESTABLISHED,21356
+"addr(ip='0.0.0.0', port=135)",(),LISTEN,1676
+"addr(ip='127.0.0.1', port=15595)",(),LISTEN,21772
+"addr(ip='127.0.0.1', port=15596)",(),LISTEN,21772
+"addr(ip='0.0.0.0', port=57621)",(),NONE,35756
+"addr(ip='127.0.0.1', port=12783)","addr(ip='127.0.0.1', port=12782)",ESTABLISHED,3392
+"addr(ip='127.0.0.1', port=12838)","addr(ip='127.0.0.1', port=12837)",ESTABLISHED,16608
+"addr(ip='127.0.0.1', port=12814)","addr(ip='127.0.0.1', port=12858)",ESTABLISHED,16608
+"addr(ip='127.0.0.1', port=15593)","addr(ip='127.0.0.1', port=15957)",ESTABLISHED,21772
+"addr(ip='127.0.0.1', port=1900)",(),NONE,11192
+"addr(ip='10.0.9.37', port=18716)","addr(ip='142.250.80.78', port=443)",ESTABLISHED,21356
+"addr(ip='127.0.0.1', port=17945)",(),LISTEN,29624
+"addr(ip='10.0.9.37', port=17934)","addr(ip='104.18.39.102', port=443)",ESTABLISHED,1808
+"addr(ip='127.0.0.1', port=14219)","addr(ip='127.0.0.1', port=14201)",ESTABLISHED,39684
+"addr(ip='0.0.0.0', port=53319)",(),NONE,2568
+"addr(ip='127.0.0.1', port=15592)","addr(ip='127.0.0.1', port=15968)",ESTABLISHED,21772
+"addr(ip='10.0.9.37', port=18806)","addr(ip='151.101.210.132', port=443)",ESTABLISHED,21356
+"addr(ip='127.0.0.1', port=9100)",(),LISTEN,6152
+"addr(ip='10.0.9.37', port=18260)","addr(ip='172.64.150.28', port=443)",TIME_WAIT,0
+"addr(ip='127.0.0.1', port=10020)",(),NONE,19660
+"addr(ip='10.0.9.37', port=18802)","addr(ip='34.120.195.249', port=443)",ESTABLISHED,21356
+"addr(ip='::1', port=42050)",(),LISTEN,17572
+"addr(ip='127.0.0.1', port=9012)","addr(ip='127.0.0.1', port=58618)",ESTABLISHED,10304
+"addr(ip='127.0.0.1', port=15973)",(),LISTEN,21772
+"addr(ip='127.0.0.1', port=12841)",(),LISTEN,16608
+"addr(ip='10.0.9.37', port=27036)",(),NONE,19664
+"addr(ip='10.0.9.37', port=18732)","addr(ip='35.186.224.25', port=443)",ESTABLISHED,43016
+"addr(ip='10.0.9.37', port=18757)","addr(ip='142.250.65.174', port=443)",ESTABLISHED,21356
+"addr(ip='0.0.0.0', port=49665)",(),LISTEN,1236
+"addr(ip='::1', port=52754)",(),NONE,11192
+"addr(ip='::', port=9012)",(),LISTEN,10304
+"addr(ip='::', port=9955)",(),NONE,33388
+"addr(ip='192.168.56.1', port=138)",(),NONE,4
+"addr(ip='127.0.0.1', port=14395)","addr(ip='127.0.0.1', port=14394)",ESTABLISHED,17860
+"addr(ip='10.0.9.37', port=18815)","addr(ip='142.251.41.3', port=443)",ESTABLISHED,21356
+"addr(ip='::1', port=8888)",(),LISTEN,3392
+"addr(ip='::', port=50030)",(),NONE,2568
+"addr(ip='fe80::f08:5404:6622:7eb5', port=2177)",(),NONE,12804
+"addr(ip='127.0.0.1', port=12817)","addr(ip='127.0.0.1', port=12860)",ESTABLISHED,16608
+"addr(ip='::', port=22)",(),LISTEN,6572
+"addr(ip='0.0.0.0', port=5355)",(),NONE,2568
+"addr(ip='127.0.0.1', port=15959)","addr(ip='127.0.0.1', port=15592)",ESTABLISHED,18888
+"addr(ip='192.168.56.1', port=5353)",(),NONE,6372
+"addr(ip='10.245.3.116', port=52759)",(),NONE,11192
+"addr(ip='::', port=135)",(),LISTEN,1676
+"addr(ip='10.0.9.37', port=18281)","addr(ip='35.186.224.16', port=443)",ESTABLISHED,43016
+"addr(ip='127.0.0.1', port=12837)","addr(ip='127.0.0.1', port=12838)",ESTABLISHED,16608
+"addr(ip='fe80::e1cc:ac8d:5042:3d6b', port=52752)",(),NONE,11192
+"addr(ip='127.0.0.1', port=12813)","addr(ip='127.0.0.1', port=12836)",ESTABLISHED,16608
+"addr(ip='127.0.0.1', port=14200)",(),LISTEN,32012
+"addr(ip='10.0.9.37', port=2177)",(),NONE,12804
+"addr(ip='127.0.0.1', port=15968)","addr(ip='127.0.0.1', port=15592)",ESTABLISHED,21772
+"addr(ip='10.0.9.37', port=13519)","addr(ip='3.96.121.93', port=443)",ESTABLISHED,21356
+"addr(ip='::', port=49666)",(),NONE,2568
+"addr(ip='0.0.0.0', port=49679)",(),LISTEN,1312
+"addr(ip='0.0.0.0', port=5353)",(),NONE,16348
+"addr(ip='::', port=51817)",(),NONE,33388
+"addr(ip='::', port=49667)",(),LISTEN,3100
+"addr(ip='fe80::e1cc:ac8d:5042:3d6b', port=5353)",(),NONE,6372
+"addr(ip='127.0.0.1', port=15593)","addr(ip='127.0.0.1', port=15961)",ESTABLISHED,21772
+"addr(ip='0.0.0.0', port=3702)",(),NONE,29516
+"addr(ip='127.0.0.1', port=25806)",(),LISTEN,19664
+"addr(ip='127.0.0.1', port=15596)","addr(ip='127.0.0.1', port=15958)",ESTABLISHED,21772
+"addr(ip='127.0.0.1', port=51941)","addr(ip='127.0.0.1', port=1042)",ESTABLISHED,21528
+"addr(ip='10.0.9.37', port=18804)","addr(ip='142.250.80.35', port=443)",TIME_WAIT,0
+"addr(ip='127.0.0.1', port=14201)","addr(ip='127.0.0.1', port=14219)",ESTABLISHED,32012
+"addr(ip='10.0.9.37', port=13494)","addr(ip='64.31.23.30', port=443)",ESTABLISHED,6000
+"addr(ip='10.245.3.116', port=139)",(),LISTEN,4
+"addr(ip='0.0.0.0', port=51588)",(),NONE,4
+"addr(ip='127.0.0.1', port=15548)","addr(ip='127.0.0.1', port=15547)",ESTABLISHED,18888
+"addr(ip='127.0.0.1', port=14367)","addr(ip='127.0.0.1', port=49153)",ESTABLISHED,39716
+"addr(ip='127.0.0.1', port=14394)","addr(ip='127.0.0.1', port=14395)",ESTABLISHED,17860
+"addr(ip='127.0.0.1', port=62522)",(),LISTEN,4232
+"addr(ip='127.0.0.1', port=12842)","addr(ip='127.0.0.1', port=12843)",ESTABLISHED,16608
+"addr(ip='127.0.0.1', port=14197)","addr(ip='127.0.0.1', port=14209)",ESTABLISHED,32012
+"addr(ip='127.0.0.1', port=13030)","addr(ip='127.0.0.1', port=49680)",ESTABLISHED,6384
+"addr(ip='127.0.0.1', port=9080)",(),LISTEN,7432
+"addr(ip='0.0.0.0', port=50769)",(),NONE,35756
+"addr(ip='169.254.131.20', port=139)",(),LISTEN,4
+"addr(ip='fe80::37c8:65d6:cfd5:4789', port=1900)",(),NONE,11192
+"addr(ip='10.0.9.37', port=18841)","addr(ip='34.170.65.59', port=443)",ESTABLISHED,39716
+"addr(ip='127.0.0.1', port=14199)","addr(ip='127.0.0.1', port=14220)",ESTABLISHED,32012
+"addr(ip='127.0.0.1', port=25816)",(),LISTEN,19664
+"addr(ip='127.0.0.1', port=17955)","addr(ip='127.0.0.1', port=51956)",ESTABLISHED,14472
+"addr(ip='::', port=1042)",(),LISTEN,19404
+"addr(ip='127.0.0.1', port=65001)","addr(ip='127.0.0.1', port=17827)",ESTABLISHED,6372
+"addr(ip='127.0.0.1', port=8888)",(),LISTEN,3392
+"addr(ip='127.0.0.1', port=14218)","addr(ip='127.0.0.1', port=14197)",ESTABLISHED,39684
+"addr(ip='127.0.0.1', port=27339)",(),LISTEN,4
+"addr(ip='0.0.0.0', port=4500)",(),NONE,2844
+"addr(ip='0.0.0.0', port=57621)",(),LISTEN,35756
+"addr(ip='10.245.3.116', port=2177)",(),NONE,12804
+"addr(ip='::', port=49679)",(),LISTEN,1312
+"addr(ip='127.0.0.1', port=12819)","addr(ip='127.0.0.1', port=12814)",ESTABLISHED,3392
+"addr(ip='127.0.0.1', port=62522)","addr(ip='127.0.0.1', port=52185)",ESTABLISHED,4232
+"addr(ip='127.0.0.1', port=65001)",(),LISTEN,6372
+"addr(ip='::', port=9956)",(),NONE,33388
+"addr(ip='127.0.0.1', port=12843)","addr(ip='127.0.0.1', port=12842)",ESTABLISHED,16608
+"addr(ip='127.0.0.1', port=1042)","addr(ip='127.0.0.1', port=51941)",ESTABLISHED,19404
+"addr(ip='192.168.56.1', port=139)",(),LISTEN,4
+"addr(ip='127.0.0.1', port=15596)","addr(ip='127.0.0.1', port=15962)",ESTABLISHED,21772
+"addr(ip='192.168.56.1', port=2177)",(),NONE,12804
+"addr(ip='0.0.0.0', port=5050)",(),NONE,10236
+"addr(ip='::', port=123)",(),NONE,30904
+"addr(ip='::', port=49664)",(),LISTEN,1400
+"addr(ip='10.0.9.37', port=13516)","addr(ip='34.36.203.109', port=443)",ESTABLISHED,43016
+"addr(ip='127.0.0.1', port=17828)","addr(ip='127.0.0.1', port=52087)",ESTABLISHED,1808
+"addr(ip='10.0.9.37', port=18782)","addr(ip='20.42.65.90', port=443)",ESTABLISHED,5916
+"addr(ip='169.254.131.20', port=2177)",(),NONE,12804
+"addr(ip='0.0.0.0', port=9956)",(),NONE,33388
+"addr(ip='10.0.9.37', port=18763)","addr(ip='34.237.186.128', port=443)",ESTABLISHED,1808
+"addr(ip='127.0.0.1', port=15956)","addr(ip='127.0.0.1', port=15594)",ESTABLISHED,18888
+"addr(ip='10.0.9.37', port=18284)","addr(ip='35.186.224.25', port=443)",ESTABLISHED,43016
+"addr(ip='0.0.0.0', port=61095)",(),NONE,19664
+"addr(ip='127.0.0.1', port=14201)","addr(ip='127.0.0.1', port=14202)",ESTABLISHED,32012
+"addr(ip='::', port=61987)",(),NONE,2568
+"addr(ip='::', port=445)",(),LISTEN,4
+"addr(ip='127.0.0.1', port=14217)","addr(ip='127.0.0.1', port=14198)",ESTABLISHED,39684
+"addr(ip='0.0.0.0', port=7070)",(),LISTEN,6000
+"addr(ip='127.0.0.1', port=15974)","addr(ip='127.0.0.1', port=15975)",ESTABLISHED,21772
+"addr(ip='0.0.0.0', port=51589)",(),NONE,4
+"addr(ip='10.0.9.37', port=13500)","addr(ip='172.64.148.154', port=443)",ESTABLISHED,1808
+"addr(ip='127.0.0.1', port=15594)",(),LISTEN,21772
+"addr(ip='127.0.0.1', port=14203)","addr(ip='127.0.0.1', port=14198)",ESTABLISHED,39684
+"addr(ip='::', port=49665)",(),LISTEN,1236
+"addr(ip='0.0.0.0', port=51816)",(),NONE,33388
+"addr(ip='0.0.0.0', port=49664)",(),LISTEN,1400
+"addr(ip='fe80::45d3:91d2:6bf9:8853', port=2177)",(),NONE,12804
+"addr(ip='127.0.0.1', port=14212)","addr(ip='127.0.0.1', port=14213)",ESTABLISHED,32012
+"addr(ip='::1', port=14204)","addr(ip='::1', port=8890)",ESTABLISHED,21356
+"addr(ip='127.0.0.1', port=1042)","addr(ip='127.0.0.1', port=51950)",ESTABLISHED,19404
+"addr(ip='10.0.9.37', port=18767)","addr(ip='20.42.65.90', port=443)",ESTABLISHED,5916
+"addr(ip='::', port=5357)",(),LISTEN,4
+"addr(ip='::', port=1043)",(),LISTEN,19404
+"addr(ip='10.0.9.37', port=13551)","addr(ip='52.159.127.243', port=443)",ESTABLISHED,5916
+"addr(ip='0.0.0.0', port=500)",(),NONE,2844
+"addr(ip='10.0.9.37', port=5353)",(),NONE,6372
+"addr(ip='127.0.0.1', port=15547)","addr(ip='127.0.0.1', port=15548)",ESTABLISHED,18888
+"addr(ip='127.0.0.1', port=49153)",(),LISTEN,8696
+"addr(ip='10.0.9.37', port=17086)","addr(ip='142.250.80.106', port=443)",ESTABLISHED,21356
+"addr(ip='127.0.0.1', port=15593)",(),LISTEN,21772
+"addr(ip='127.0.0.1', port=14171)","addr(ip='127.0.0.1', port=14172)",ESTABLISHED,39684
+"addr(ip='::', port=3702)",(),NONE,5444
+"addr(ip='169.254.131.20', port=1900)",(),NONE,11192
+"addr(ip='127.0.0.1', port=9100)","addr(ip='127.0.0.1', port=17920)",ESTABLISHED,6152
+"addr(ip='127.0.0.1', port=12814)",(),LISTEN,16608
+"addr(ip='127.0.0.1', port=51591)",(),NONE,5124
+"addr(ip='0.0.0.0', port=9955)",(),NONE,33388
+"addr(ip='::', port=5353)",(),NONE,2568
+"addr(ip='::1', port=1900)",(),NONE,11192
+"addr(ip='fe80::2834:571b:f55d:2406', port=1900)",(),NONE,11192
+"addr(ip='fe80::e1cc:ac8d:5042:3d6b', port=2177)",(),NONE,12804
+"addr(ip='169.254.229.186', port=138)",(),NONE,4
+"addr(ip='127.0.0.1', port=49153)","addr(ip='127.0.0.1', port=14367)",ESTABLISHED,8696
+"addr(ip='127.0.0.1', port=52067)",(),NONE,2244
+"addr(ip='0.0.0.0', port=1043)",(),LISTEN,19404
+"addr(ip='10.0.9.37', port=138)",(),NONE,4
+"addr(ip='10.0.9.37', port=18819)","addr(ip='20.135.17.54', port=443)",ESTABLISHED,5916
+"addr(ip='127.0.0.1', port=14380)",(),LISTEN,22644
+"addr(ip='10.0.9.37', port=18756)","addr(ip='142.250.65.174', port=443)",ESTABLISHED,21356
+"addr(ip='::', port=51590)",(),NONE,4
+"addr(ip='0.0.0.0', port=51586)",(),NONE,4
+"addr(ip='10.245.3.116', port=137)",(),NONE,4
+"addr(ip='127.0.0.1', port=8889)",(),LISTEN,18888
+"addr(ip='127.0.0.1', port=14216)","addr(ip='127.0.0.1', port=14215)",ESTABLISHED,32012
+"addr(ip='10.0.9.37', port=18776)","addr(ip='192.168.90.200', port=8006)",ESTABLISHED,21356
+"addr(ip='127.0.0.1', port=12861)","addr(ip='127.0.0.1', port=12815)",ESTABLISHED,3392
+"addr(ip='::', port=53319)",(),NONE,2568
+"addr(ip='0.0.0.0', port=9012)",(),LISTEN,10304
+"addr(ip='fe80::f08:5404:6622:7eb5', port=1900)",(),NONE,11192
+"addr(ip='10.0.9.37', port=13413)","addr(ip='34.36.203.109', port=443)",ESTABLISHED,35756
+"addr(ip='0.0.0.0', port=27036)",(),NONE,19664
+"addr(ip='10.0.9.37', port=18328)","addr(ip='34.120.214.181', port=443)",ESTABLISHED,21356
+"addr(ip='127.0.0.1', port=15961)","addr(ip='127.0.0.1', port=15593)",ESTABLISHED,18888
+"addr(ip='127.0.0.1', port=14172)","addr(ip='127.0.0.1', port=14171)",ESTABLISHED,39684
+"addr(ip='127.0.0.1', port=52087)",(),LISTEN,17068
+"addr(ip='0.0.0.0', port=50770)",(),NONE,35756
+"addr(ip='0.0.0.0', port=50767)",(),NONE,35756
+"addr(ip='fe80::37c8:65d6:cfd5:4789', port=52749)",(),NONE,11192
+"addr(ip='0.0.0.0', port=5040)",(),LISTEN,10236
+"addr(ip='127.0.0.1', port=13031)",(),LISTEN,29624
+"addr(ip='127.0.0.1', port=15958)","addr(ip='127.0.0.1', port=15596)",ESTABLISHED,18888
+"addr(ip='0.0.0.0', port=13409)",(),LISTEN,35756
+"addr(ip='10.0.9.37', port=13473)","addr(ip='162.254.192.74', port=443)",ESTABLISHED,19664
+"addr(ip='10.0.9.37', port=18755)","addr(ip='142.251.35.163', port=443)",ESTABLISHED,21356
+"addr(ip='::', port=65338)",(),NONE,2568
+"addr(ip='10.0.9.37', port=13523)","addr(ip='172.253.115.188', port=443)",ESTABLISHED,21356
+"addr(ip='0.0.0.0', port=22)",(),LISTEN,6572
+"addr(ip='10.245.3.116', port=138)",(),NONE,4
+"addr(ip='127.0.0.1', port=12859)","addr(ip='127.0.0.1', port=12813)",ESTABLISHED,3392
+"addr(ip='127.0.0.1', port=14202)","addr(ip='127.0.0.1', port=14201)",ESTABLISHED,39684
+"addr(ip='127.0.0.1', port=14220)","addr(ip='127.0.0.1', port=14199)",ESTABLISHED,39684
+"addr(ip='127.0.0.1', port=12860)","addr(ip='127.0.0.1', port=12817)",ESTABLISHED,3392
+"addr(ip='127.0.0.1', port=17940)","addr(ip='127.0.0.1', port=9010)",ESTABLISHED,16400
+"addr(ip='127.0.0.1', port=8890)",(),LISTEN,39684
+"addr(ip='10.0.9.37', port=137)",(),NONE,4
+"addr(ip='::', port=5353)",(),NONE,35756
+"addr(ip='::', port=5353)",(),NONE,21356
+"addr(ip='0.0.0.0', port=9955)",(),LISTEN,33388
+"addr(ip='10.0.9.37', port=13416)","addr(ip='52.159.127.243', port=443)",ESTABLISHED,6828
+"addr(ip='127.0.0.1', port=52087)","addr(ip='127.0.0.1', port=17889)",ESTABLISHED,17068
+"addr(ip='127.0.0.1', port=17920)","addr(ip='127.0.0.1', port=9100)",ESTABLISHED,7432
+"addr(ip='0.0.0.0', port=50766)",(),NONE,35756
+"addr(ip='::', port=5353)",(),NONE,33388
+"addr(ip='169.254.229.186', port=52757)",(),NONE,11192
+"addr(ip='::1', port=8889)",(),LISTEN,18888
+"addr(ip='127.0.0.1', port=14210)","addr(ip='127.0.0.1', port=14211)",ESTABLISHED,32012
+"addr(ip='127.0.0.1', port=12813)",(),LISTEN,16608
+"addr(ip='10.0.9.37', port=17137)","addr(ip='142.251.35.163', port=443)",ESTABLISHED,21356
+"addr(ip='fe80::45d3:91d2:6bf9:8853', port=5353)",(),NONE,6372
+"addr(ip='127.0.0.1', port=13032)",(),LISTEN,29624
+"addr(ip='fe80::45d3:91d2:6bf9:8853', port=52751)",(),NONE,11192
+"addr(ip='0.0.0.0', port=445)",(),LISTEN,4
+"addr(ip='127.0.0.1', port=13010)",(),LISTEN,16796
+"addr(ip='127.0.0.1', port=17532)",(),LISTEN,16796
+"addr(ip='127.0.0.1', port=15962)","addr(ip='127.0.0.1', port=15596)",ESTABLISHED,18888
+"addr(ip='10.0.9.37', port=13414)","addr(ip='34.158.253.218', port=443)",ESTABLISHED,35756
+"addr(ip='10.0.9.37', port=1900)",(),NONE,11192
+"addr(ip='169.254.229.186', port=5353)",(),NONE,6372
+"addr(ip='127.0.0.1', port=12818)","addr(ip='127.0.0.1', port=12817)",ESTABLISHED,3392
+"addr(ip='169.254.229.186', port=137)",(),NONE,4
+"addr(ip='10.0.9.37', port=17114)","addr(ip='35.186.224.25', port=443)",ESTABLISHED,43016
+"addr(ip='10.0.9.37', port=13485)","addr(ip='52.108.216.86', port=443)",ESTABLISHED,24456
+"addr(ip='fe80::45d3:91d2:6bf9:8853', port=1900)",(),NONE,11192
+"addr(ip='127.0.0.1', port=14213)","addr(ip='127.0.0.1', port=14212)",ESTABLISHED,32012
+"addr(ip='10.0.9.37', port=18253)","addr(ip='142.250.72.110', port=443)",ESTABLISHED,17932
+"addr(ip='0.0.0.0', port=27036)",(),LISTEN,19664
+"addr(ip='127.0.0.1', port=12782)","addr(ip='127.0.0.1', port=12783)",ESTABLISHED,3392
+"addr(ip='127.0.0.1', port=9010)",(),LISTEN,7432
+"addr(ip='::', port=9013)",(),LISTEN,10304
+"addr(ip='127.0.0.1', port=15592)",(),LISTEN,21772
+"addr(ip='fe80::e1cc:ac8d:5042:3d6b', port=1900)",(),NONE,11192
+"addr(ip='0.0.0.0', port=52858)",(),NONE,6372
+"addr(ip='127.0.0.1', port=14197)",(),LISTEN,32012
+"addr(ip='127.0.0.1', port=12836)","addr(ip='127.0.0.1', port=12813)",ESTABLISHED,16608
+"addr(ip='127.0.0.1', port=15957)","addr(ip='127.0.0.1', port=15593)",ESTABLISHED,18888
+"addr(ip='0.0.0.0', port=5353)",(),NONE,21356
+"addr(ip='10.0.9.37', port=52755)",(),NONE,11192
+"addr(ip='127.0.0.1', port=17889)","addr(ip='127.0.0.1', port=52087)",ESTABLISHED,1808
+"addr(ip='0.0.0.0', port=5353)",(),NONE,33388
+"addr(ip='0.0.0.0', port=50030)",(),NONE,2568
+"addr(ip='0.0.0.0', port=51818)",(),NONE,33388
+"addr(ip='127.0.0.1', port=49680)","addr(ip='127.0.0.1', port=13030)",ESTABLISHED,6384
+"addr(ip='10.0.9.37', port=18282)","addr(ip='35.186.224.25', port=443)",ESTABLISHED,43016
+"addr(ip='127.0.0.1', port=15592)","addr(ip='127.0.0.1', port=15959)",ESTABLISHED,21772
+"addr(ip='::', port=500)",(),NONE,2844
+"addr(ip='fe80::f08:5404:6622:7eb5', port=52750)",(),NONE,11192
+"addr(ip='10.0.9.37', port=13608)","addr(ip='192.168.90.200', port=8006)",ESTABLISHED,21356
+"addr(ip='127.0.0.1', port=9010)","addr(ip='127.0.0.1', port=17940)",ESTABLISHED,7432
+"addr(ip='127.0.0.1', port=14214)",(),LISTEN,32012
+"addr(ip='127.0.0.1', port=12815)","addr(ip='127.0.0.1', port=12861)",ESTABLISHED,16608
+"addr(ip='::', port=5353)",(),NONE,28772
+"addr(ip='127.0.0.1', port=14209)","addr(ip='127.0.0.1', port=14197)",ESTABLISHED,32012
+"addr(ip='127.0.0.1', port=14215)","addr(ip='127.0.0.1', port=14216)",ESTABLISHED,32012
+"addr(ip='0.0.0.0', port=50768)",(),NONE,35756
+"addr(ip='127.0.0.1', port=14198)",(),LISTEN,32012
+"addr(ip='127.0.0.1', port=15234)","addr(ip='127.0.0.1', port=49153)",ESTABLISHED,39716
+"addr(ip='127.0.0.1', port=14199)",(),LISTEN,32012
+"addr(ip='10.0.9.37', port=13536)","addr(ip='20.127.250.238', port=443)",ESTABLISHED,35624
+"addr(ip='::1', port=8890)",(),LISTEN,39684
+"addr(ip='127.0.0.1', port=12815)",(),LISTEN,16608
+"addr(ip='::', port=5355)",(),NONE,2568
+"addr(ip='127.0.0.1', port=12813)","addr(ip='127.0.0.1', port=12859)",ESTABLISHED,16608
+"addr(ip='0.0.0.0', port=49666)",(),NONE,2568
+"addr(ip='127.0.0.1', port=12858)","addr(ip='127.0.0.1', port=12814)",ESTABLISHED,3392
+"addr(ip='0.0.0.0', port=49667)",(),LISTEN,3100
+"addr(ip='192.168.56.1', port=1900)",(),NONE,11192
+"addr(ip='169.254.131.20', port=137)",(),NONE,4
+"addr(ip='169.254.229.186', port=139)",(),LISTEN,4
+"addr(ip='127.0.0.1', port=51956)",(),LISTEN,19660
+"addr(ip='10.0.9.37', port=18814)","addr(ip='142.251.40.142', port=443)",ESTABLISHED,21356
+"addr(ip='10.0.9.37', port=17043)","addr(ip='34.120.32.134', port=443)",ESTABLISHED,1808
+"addr(ip='0.0.0.0', port=5357)",(),LISTEN,4
+"addr(ip='127.0.0.1', port=45654)",(),LISTEN,7432
+"addr(ip='fe80::2834:571b:f55d:2406', port=2177)",(),NONE,12804
+"addr(ip='192.168.56.1', port=52756)",(),NONE,11192
+"addr(ip='::', port=51387)",(),NONE,29516
+"addr(ip='10.0.9.37', port=18689)","addr(ip='142.250.65.206', port=443)",ESTABLISHED,17932
+"addr(ip='::', port=49666)",(),LISTEN,1976
+"addr(ip='fe80::2834:571b:f55d:2406', port=52753)",(),NONE,11192
+"addr(ip='127.0.0.1', port=14201)",(),LISTEN,32012
+"addr(ip='0.0.0.0', port=3702)",(),NONE,5444
+"addr(ip='10.245.3.116', port=18225)","addr(ip='198.105.45.22', port=443)",ESTABLISHED,4232
+"addr(ip='::', port=5353)",(),NONE,16348
+"addr(ip='10.0.9.37', port=18540)","addr(ip='13.107.42.12', port=443)",ESTABLISHED,24456
+"addr(ip='0.0.0.0', port=5353)",(),NONE,28772
+"addr(ip='0.0.0.0', port=49668)",(),LISTEN,5076
